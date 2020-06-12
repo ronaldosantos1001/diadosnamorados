@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #FFFFFF url("fundo.jpg") no-repeat right top fixed;
+    background-size: cover;
+
+}
+
+p{
+    text-align: justify;
+}
+
+.text{
+    width: 50%;
+    position: absolute;
+    margin-left: 25%;
+    font-family: 'Sriracha', cursive;
+    font-size: 18px;
+}
